@@ -6,6 +6,7 @@ My first GIThub program
 <body>
   <p>
     <b>Hello World!</b>
+    <!--All I really want to know is how to upload an HTML file!..-->
   </p>
 </body>
 </html>
